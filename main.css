@@ -365,11 +365,13 @@ img.circle {
 
 h1 {
     letter-spacing: 3px;
+    text-align: center;
 }
 
 h2 {
     letter-spacing: 2px;
     color: rgb(204, 204, 204);
+    text-align: center;
 }
 
 .flex-container-2 {
